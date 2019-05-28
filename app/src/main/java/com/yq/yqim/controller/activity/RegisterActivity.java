@@ -43,7 +43,7 @@ private  EditText password;
         setContentView(R.layout.activity_register);
 //初始化控件
         initView();
-initUser();
+
 register.setOnClickListener(new View.OnClickListener() {
     @Override
     public void onClick(View v) {
@@ -82,7 +82,7 @@ register.setOnClickListener(new View.OnClickListener() {
                     //使用Gson将对象转换为json字符串
                     String json = gson.toJson(user);
                     RequestBody requestBody = FormBody.create(MediaType.parse("application/json; charset=utf-8"), json);
-                    String Url = ip+"WebService/Register" ;
+                    String Url = ip+"Register" ;
                     Request request = new Request.Builder().url(Url)//请求的url
                             .post(requestBody).build();
 
@@ -130,78 +130,78 @@ register.setOnClickListener(new View.OnClickListener() {
         }
     }
 
-    //准备数据，把数据添加到List中
-    private void initUser() {
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                try {
-                    OkHttpClient client = new OkHttpClient();
-                    final String us = "yanqi";
-
-
-                    RequestBody requestBody = FormBody.create(MediaType.parse("application/json; charset=utf-8"), us);
-                    String Url = ip + "WebService/Invite";
-                    Request request = new Request.Builder().url(Url)//请求的url
-                            .post(requestBody).build();
-
-                    Call call = client.newCall(request);
-                    call.enqueue(new Callback() {
-                        @Override
-                        public void onFailure(Call call, final IOException e) {
-                            //进行更新UI操作
-//                            runOnUiThread(new Runnable() {
-//                                @Override
-//                                public void run() {
-//                                    Toast.makeText(LoginActivity.this, "登陆失败！", Toast.LENGTH_SHORT).show();
-//                                }
-//                            });
-                            System.out.println("获取失败");
-                        }
-
-                        @Override
-                        public void onResponse(Call call, Response response) throws IOException {
-
-                            //接受服务端传回来的数据
-                            String responseData = response.body().string();//将服务端传来的Json数据转化为String类型数据
-                            showResponse(responseData);
-
-                        }
-                    });
-                }
-
-
-                catch (Exception e) {
-                    e.printStackTrace();
-                }
-            }
-        }).start();
-    }
-
-    private void showResponse(final String response) {
-
-        Gson gson = new Gson();
-        final List<InvationInfo> List = gson.fromJson(response, new TypeToken<List<InvationInfo>>() {
-        }.getType());
-
-        //切换到主线程
-        runOnUiThread(new Runnable() {
-            @Override
-            public void run() {
-
-                for (InvationInfo invationInfo : List) {
-
-                    System.out.println(invationInfo.getFriend());
-                    System.out.println(invationInfo.getReason());
-                }
-
-            }
-        });
-
-    }
-
-
-
+//    //准备数据，把数据添加到List中
+//    private void initUser() {
+//        new Thread(new Runnable() {
+//            @Override
+//            public void run() {
+//                try {
+//                    OkHttpClient client = new OkHttpClient();
+//                    final String us = "yanqi";
+//
+//
+//                    RequestBody requestBody = FormBody.create(MediaType.parse("application/json; charset=utf-8"), us);
+//                    String Url = ip + "WebService/Invite";
+//                    Request request = new Request.Builder().url(Url)//请求的url
+//                            .post(requestBody).build();
+//
+//                    Call call = client.newCall(request);
+//                    call.enqueue(new Callback() {
+//                        @Override
+//                        public void onFailure(Call call, final IOException e) {
+//                            //进行更新UI操作
+////                            runOnUiThread(new Runnable() {
+////                                @Override
+////                                public void run() {
+////                                    Toast.makeText(LoginActivity.this, "登陆失败！", Toast.LENGTH_SHORT).show();
+////                                }
+////                            });
+//                            System.out.println("获取失败");
+//                        }
+//
+//                        @Override
+//                        public void onResponse(Call call, Response response) throws IOException {
+//
+//                            //接受服务端传回来的数据
+//                            String responseData = response.body().string();//将服务端传来的Json数据转化为String类型数据
+//                            showResponse(responseData);
+//
+//                        }
+//                    });
+//                }
+//
+//
+//                catch (Exception e) {
+//                    e.printStackTrace();
+//                }
+//            }
+//        }).start();
+//    }
+//
+//    private void showResponse(final String response) {
+//
+//        Gson gson = new Gson();
+//        final List<InvationInfo> List = gson.fromJson(response, new TypeToken<List<InvationInfo>>() {
+//        }.getType());
+//
+//        //切换到主线程
+//        runOnUiThread(new Runnable() {
+//            @Override
+//            public void run() {
+//
+//                for (InvationInfo invationInfo : List) {
+//
+//                    System.out.println(invationInfo.getFriend());
+//                    System.out.println(invationInfo.getReason());
+//                }
+//
+//            }
+//        });
+//
+//    }
+//
+//
+//
 
 
 

@@ -58,7 +58,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".controller.activity.ChengePwdActivity"></activity>
+        <activity android:name=".controller.activity.etalkActivity"></activity>
+        <activity android:name=".controller.activity.mbookActivity" />
+        <activity android:name=".controller.activity.ChengePwdActivity" />
         <activity android:name=".controller.activity.RegisterActivity" />
         <activity android:name=".controller.activity.ChatActivity" />
         <activity android:name=".controller.activity.InviteActivity" />

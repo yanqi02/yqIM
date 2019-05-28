@@ -88,31 +88,6 @@ public class InviteAdapter extends BaseAdapter {
             holder.accept.setVisibility(View.GONE);
             holder.reject.setVisibility(View.GONE);
             holder.reason.setText(invationInfo.getReason());
-            //原因
-//            if (invationInfo.getStatus() == InvationInfo.InvationStatus.NEW_INVITE)
-//            {//新邀请
-//                if (invationInfo.getReason() == null) {
-//                    holder.reason.setText("添加好友");
-//
-//                } else {
-//                    holder.reason.setText(invationInfo.getReason());
-//                }
-//                holder.accept.setVisibility(View.VISIBLE);
-//                holder.reject.setVisibility(View.VISIBLE);
-//
-//            } else if (invationInfo.getStatus() == InvationInfo.InvationStatus.INVITE_ACCEPT) {//接受邀请
-//                if (invationInfo.getReason() == null) {
-//                    holder.reason.setText("接受邀请");
-//                } else {
-//                    holder.reason.setText(invationInfo.getReason());
-//                }
-//            } else if (invationInfo.getStatus() == InvationInfo.InvationStatus.INVITE_ACCEPT_BY_PEER) {//邀请被接受
-//                if (invationInfo.getReason() == null) {
-//                    holder.reason.setText("邀请被接受");
-//                } else {
-//                    holder.reason.setText(invationInfo.getReason());
-//                }
-//            }
 
         //按钮处理
         holder.accept.setOnClickListener(new View.OnClickListener() {

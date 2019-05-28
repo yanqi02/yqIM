@@ -88,7 +88,7 @@ String ip= IPtools.getIp();
                 //使用Gson将对象转换为json字符串
                 String json = gson.toJson(user);
                 RequestBody requestBody = FormBody.create(MediaType.parse("application/json; charset=utf-8"), json);
-                String Url = ip+"WebService/FindUser";
+                String Url = ip+"FindUser";
                 Request request = new Request.Builder().url(Url)//请求的url
                         .post(requestBody).build();
 

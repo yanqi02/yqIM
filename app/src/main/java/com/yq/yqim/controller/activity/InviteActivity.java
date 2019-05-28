@@ -170,7 +170,7 @@ System.out.println("refesh");
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        mLBM.unregisterReceiver(ContactInviteChangedReceiver);
+
     }
 
 
@@ -184,7 +184,7 @@ System.out.println("refesh");
 
 
                     RequestBody requestBody = FormBody.create(MediaType.parse("application/json; charset=utf-8"), user);
-                    String Url = ip + "WebService/Invite";
+                    String Url = ip + "Invite";
                     Request request = new Request.Builder().url(Url)//请求的url
                             .post(requestBody).build();
 
