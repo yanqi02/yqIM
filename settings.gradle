@@ -1,1 +1,1 @@
-include ':app', ':simpledemo', ':easeui'
+include ':app'

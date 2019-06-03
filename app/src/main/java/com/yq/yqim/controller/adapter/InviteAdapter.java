@@ -1,153 +1,129 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by Fernflower decompiler)
+//
+
 package com.yq.yqim.controller.adapter;
 
 import android.content.Context;
+import android.support.v4.content.LocalBroadcastManager;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.View.OnClickListener;
 import android.widget.BaseAdapter;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
 import com.yq.yqim.R;
+import com.yq.yqim.controller.activity.InviteActivity;
 import com.yq.yqim.model.bean.InvationInfo;
 import com.yq.yqim.utils.IPtools;
-
-
 import java.util.ArrayList;
 import java.util.List;
 
-
-
 public class InviteAdapter extends BaseAdapter {
-    private OnInviteListener monInviteListener;
-    private Context mcontext;
+    public String cfriend = null;
     private InvationInfo invationInfo;
-    private List<InvationInfo> mInvitationInfos = new ArrayList<>();
-    String ip= IPtools.getIp();
-    public InviteAdapter(Context context, OnInviteListener onInviteListener) {
-        mcontext = context;
-        monInviteListener = onInviteListener;
+    String ip = IPtools.getIp();
+    private List<InvationInfo> mInvitationInfos = new ArrayList();
+    private LocalBroadcastManager mLBM;
+    private Context mcontext;
+    private InviteAdapter.OnInviteListener monInviteListener;
+
+    public InviteAdapter(Context var1, InviteAdapter.OnInviteListener var2) {
+        this.mcontext = var1;
+        InviteActivity.localBroadcastManager = LocalBroadcastManager.getInstance(var1);
+        this.monInviteListener = var2;
     }
 
-    //刷新数据
-    public void refresh(List<InvationInfo> invationInfos) {
-
-        for (InvationInfo invationInfo : invationInfos) {
-            System.out.println("刷新适配器");
-            System.out.println(invationInfo.getFriend());
-            System.out.println(invationInfo.getReason());
-        }
-        if (invationInfos != null && invationInfos.size() >= 0) {
-           mInvitationInfos.clear();
-            mInvitationInfos.addAll(invationInfos);
-            notifyDataSetChanged();
-        }
-    }
-
-    @Override
     public int getCount() {
-        return mInvitationInfos == null ? 0 : mInvitationInfos.size();
+        List var1 = this.mInvitationInfos;
+        return var1 == null ? 0 : var1.size();
     }
 
-    @Override
-    public Object getItem(int position) {
-        return mInvitationInfos.get(position);
+    public Object getItem(int var1) {
+        return this.mInvitationInfos.get(var1);
     }
 
-    @Override
-    public long getItemId(int position) {
-        return position;
+    public long getItemId(int var1) {
+        return (long)var1;
     }
 
-    @Override
-    public View getView(int position, View convertView, ViewGroup parent) {
-
-        //1获取或创建viewHolder
-        ViewHolder holder = null;
-        if (convertView == null) {
-            holder = new ViewHolder();
-            convertView = View.inflate(mcontext, R.layout.item_invite, null);
-            holder.name = (TextView) convertView.findViewById(R.id.tv_invite_name);
-            holder.reason = (TextView) convertView.findViewById(R.id.tv_invite_reason);
-            holder.accept = (Button) convertView.findViewById(R.id.bt_invite_accept);
-            holder.reject = (Button) convertView.findViewById(R.id.bt_invite_reject);
-            convertView.setTag(holder);
+    public View getView(int var1, View var2, ViewGroup var3) {
+        final InviteAdapter.ViewHolder var5;
+        View var6;
+        if (var2 == null) {
+            var5 = new InviteAdapter.ViewHolder();
+            var6 = View.inflate(this.mcontext, R.layout.item_invite, (ViewGroup)null);
+            var5.name = (TextView)var6.findViewById(R.id.tv_invite_name);
+            var5.reason = (TextView)var6.findViewById(R.id.tv_invite_reason);
+            var5.accept = (Button)var6.findViewById(R.id.bt_invite_accept);
+            var5.reject = (Button)var6.findViewById(R.id.bt_invite_reject);
+            var6.setTag(var5);
         } else {
-            holder = (ViewHolder) convertView.getTag();
+            InviteAdapter.ViewHolder var4 = (InviteAdapter.ViewHolder)var2.getTag();
+            var6 = var2;
+            var5 = var4;
         }
 
-        //2获取item数据
-        invationInfo = mInvitationInfos.get(position);
-
-       // 3 显示当前item数据
-        String friend = invationInfo.getFriend();
-        if (friend != null) {//联系人
-            //名称
-       holder.name.setText(friend);
-            holder.accept.setVisibility(View.GONE);
-            holder.reject.setVisibility(View.GONE);
-            holder.reason.setText(invationInfo.getReason());
-
-        //按钮处理
-        holder.accept.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                monInviteListener.onAccept(invationInfo);
-            }
-        });
-        holder.reject.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                monInviteListener.onReject(invationInfo);
-            }
-        });}
-
-    else{//群组
+        this.invationInfo = (InvationInfo)this.mInvitationInfos.get(var1);
+        String var7 = this.invationInfo.getFriend();
+        var1 = this.invationInfo.getStatus();
+        if (var7 != null) {
+            var5.name.setText(var7);
+            if (var1 == 1 || var1 == 2) {
+                var5.accept.setVisibility(View.VISIBLE);
+                var5.reject.setVisibility(View.VISIBLE);
             }
 
-            //4返回view
-            return convertView;
-
+            var5.reason.setText(this.invationInfo.getReason());
+            var5.accept.setOnClickListener(new OnClickListener() {
+                public void onClick(View var1) {
+                    InviteAdapter.this.monInviteListener.onAccept(InviteAdapter.this.invationInfo);
+                    InviteAdapter var2 = InviteAdapter.this;
+                    var2.cfriend = var2.invationInfo.getFriend();
+                    var5.reason.setText("接受邀请");
+                    var5.accept.setVisibility(View.GONE);
+                    var5.reject.setVisibility(View.GONE);
+                }
+            });
+            var5.reject.setOnClickListener(new OnClickListener() {
+                public void onClick(View var1) {
+                    InviteAdapter.this.monInviteListener.onReject(InviteAdapter.this.invationInfo);
+                    InviteAdapter var2 = InviteAdapter.this;
+                    var2.cfriend = var2.invationInfo.getFriend();
+                    var5.reason.setText("拒绝邀请");
+                    var5.accept.setVisibility(View.GONE);
+                    var5.reject.setVisibility(View.GONE);
+                }
+            });
         }
 
+        return var6;
+    }
 
-    private class ViewHolder {
-        private TextView name;
-        private TextView reason;
-        private Button accept;
-        private Button reject;
+    public void refresh(List<InvationInfo> var1) {
+        if (var1 != null && var1.size() >= 0) {
+            this.mInvitationInfos.clear();
+            this.mInvitationInfos.addAll(var1);
+            this.notifyDataSetChanged();
+        }
 
     }
 
     public interface OnInviteListener {
-        //联系人接受按钮点击事件
-        void onAccept(InvationInfo invationInfo);
+        void onAccept(InvationInfo var1);
 
-        //拒绝
-        void onReject(InvationInfo invationInfo);
+        void onReject(InvationInfo var1);
     }
 
+    private class ViewHolder {
+        private Button accept;
+        private TextView name;
+        private TextView reason;
+        private Button reject;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        private ViewHolder() {
+        }
+    }
 }
-

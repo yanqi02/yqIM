@@ -21,7 +21,11 @@ public class etalkAdapter extends RecyclerView.Adapter<etalkAdapter.etalkViewHol
     private ArrayList<etalkBean> mtalks;
     private OnItemClickListener onItemClickListener;
 
-
+    public etalkAdapter(Context context, ArrayList<etalkBean> paramArrayList)
+    {
+        this.context1 = context;
+        this.mtalks= paramArrayList;
+    }
     class etalkViewHolder extends RecyclerView.ViewHolder
     {
         private TextView talk_user;
@@ -52,10 +56,18 @@ public class etalkAdapter extends RecyclerView.Adapter<etalkAdapter.etalkViewHol
 
     }
 
-@Override
+    @Override
+    public int getItemCount() {
+        return mtalks.size();
+    }
+
+    @Override
     public etalkViewHolder onCreateViewHolder(ViewGroup parent, int paramInt)
     {
-        return new etalkAdapter.etalkViewHolder(LayoutInflater.from(parent.getContext()).inflate(R.layout.item_etalk, parent, false));
+
+        etalkViewHolder holder=new etalkViewHolder(LayoutInflater.from(parent.getContext()).inflate(R.layout.item_etalk, parent, false));
+        return holder;
+
     }
 
     public void setOnItemClickListener(OnItemClickListener paramOnItemClickListener)
@@ -63,11 +75,7 @@ public class etalkAdapter extends RecyclerView.Adapter<etalkAdapter.etalkViewHol
         this.onItemClickListener = paramOnItemClickListener;
     }
 
-    @Override
-    public int getItemCount()
-    {
-        return this.mtalks.size();
-    }
+
 
     public static abstract interface OnItemClickListener
     {

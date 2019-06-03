@@ -11,8 +11,11 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 import com.yq.yqim.R;
+import com.yq.yqim.controller.fragment.ContactFragment;
 import com.yq.yqim.model.Model;
+import com.yq.yqim.model.bean.Gbooks;
 import com.yq.yqim.model.bean.testbean;
 import com.yq.yqim.utils.IPtools;
 
@@ -22,6 +25,7 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.ProtocolException;
 import java.net.URL;
+import java.util.List;
 
 import okhttp3.Call;
 import okhttp3.Callback;
@@ -54,100 +58,36 @@ public class LoginActivity extends AppCompatActivity {
         login_btn_login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-//                Login();
-//                Intent intent = new Intent(LoginActivity.this, mbookActivity.class);
+              Login();
+//                Intent  intent=new Intent(LoginActivity.this,FindFriendActivity.class);
 //                startActivity(intent);
-//                finish();
 
 
+            }
+        });
 
-                Model.getInstance().getGlobalThreadPool().execute(new Runnable() {
-                    @Override
-                    public void run() {
-
-                        OkHttpClient client = new OkHttpClient();
-                        String path = "http://172.24.234.147:8081/talk/all";
-
-                        Request request = new Request.Builder().url(path)//请求的url
-                                .get().build();
-
-                        Call call = client.newCall(request);
-                        call.enqueue(new Callback() {
-                            @Override
-                            public void onFailure(Call call, final IOException e) {
-                                //进行更新UI操作
-                                runOnUiThread(new Runnable() {
-                                    @Override
-                                    public void run() {
-                                        Toast.makeText(LoginActivity.this, "登陆失败！", Toast.LENGTH_SHORT).show();
-                                    }
-                                });
-                            }
-
-                            @Override
-                            public void onResponse(Call call, Response response) throws IOException {
-
-                                final String res = response.body().string();
-                                //注意，将Json对象转化为User对象必须在子线程中进行，不能放在主线程中，
-                                runOnUiThread(new Runnable() {
-                                    @Override
-                                    public void run() {
-                                        //返回信息不为空，则表示登录验证成功
-                                        if (res!= null) {
-                                            Toast.makeText(LoginActivity.this,res, Toast.LENGTH_SHORT).show();
-                                            //跳转主界面
-                                            Intent intent = new Intent(LoginActivity.this, MainActivity.class);
-                                            startActivity(intent);
-                                            finish();
-                                        } else {
-                                            Toast.makeText(LoginActivity.this, "用户名或密码错误！", Toast.LENGTH_SHORT).show();
-
-                                        }
-                                    }
-                                });
+        login_text_chengepwd.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
 
 
-                            }
-                        });
-                    }
-
-                });
+                Intent intent = new Intent(LoginActivity.this, ChengePwdActivity.class);
+                startActivity(intent);
 
 
+            }
+        });
+        login_btn_register = (Button) findViewById(R.id.login_btn_register);
 
+        login_btn_register.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(LoginActivity.this, RegisterActivity.class);
 
-
-
-
-
-
-        }
-    });
-
-login_text_chengepwd.setOnClickListener(new View.OnClickListener()
-
-    {
-        @Override
-        public void onClick (View v){
-        Intent intent = new Intent(LoginActivity.this, ChengePwdActivity.class);
-        startActivity(intent);
+                startActivity(intent);
+            }
+        });
     }
-    });
-    login_btn_register =(Button)
-
-    findViewById(R.id.login_btn_register);
-
-        login_btn_register.setOnClickListener(new View.OnClickListener()
-
-    {
-        @Override
-        public void onClick (View v){
-//                Intent intent = new Intent(LoginActivity.this, RegisterActivity.class);
-        Intent intent = new Intent(LoginActivity.this, etalkActivity.class);
-        startActivity(intent);
-    }
-    });
-}
 
 
     private void Login() {

@@ -2,7 +2,6 @@ package com.yq.yqim.model;
 
 import android.content.Context;
 
-import com.baidu.mapapi.map.MarkerOptions;
 import com.yq.yqim.model.bean.UserInfo;
 import com.yq.yqim.model.dao.UserAccount;
 import com.yq.yqim.model.dao.UserDao;

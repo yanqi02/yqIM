@@ -1,55 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
 
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".controller.activity.MainActivity">
-<FrameLayout
-    android:id="@+id/f1_main"
+
+    <android.support.v4.widget.SwipeRefreshLayout
     android:layout_width="match_parent"
-    android:layout_height="0dp"
-    android:layout_weight="1">
-</FrameLayout>
-    <RadioGroup
-        android:id="@+id/rg_main"
-        android:orientation="horizontal"
-        android:layout_width="match_parent"
-        android:layout_height="60dp">
-
-<RadioButton
-    android:id="@+id/rb_main_chat"
-    android:text="消息"
-
-    android:layout_width="0dp"
     android:layout_height="match_parent"
-    android:layout_weight="1"
-    android:textSize="20sp"
-    android:button="@null"
-    android:gravity="center"
-    android:background="@drawable/main_bottom"/>
-
-        <RadioButton
-            android:id="@+id/rb_main_contact"
-            android:text="好友"
+    android:id="@+id/refresh">
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+        <TextView
+            android:id="@+id/tv"
             android:gravity="center"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
             android:textSize="20sp"
-            android:button="@null"
-            android:background="@drawable/main_bottom"/>
-        <RadioButton
-            android:id="@+id/rb_main_setting"
-            android:text="设置"
-            android:gravity="center"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:textSize="20sp"
-            android:button="@null"
-            android:background="@drawable/main_bottom"/>
-    </RadioGroup>
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+    <FrameLayout
+        android:id="@+id/f1_main"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+    </FrameLayout>
 
+    <com.nightonke.boommenu.BoomMenuButton
+        android:id="@+id/bmb"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:scrollbarSize="30dp"
+        app:bmb_buttonEnum="textOutsideCircle"
+        app:bmb_buttonPlaceEnum="buttonPlace_sc_5_2"
+        app:bmb_normalColor="@color/gray_pressed"
+        app:bmb_piecePlaceEnum="piecePlace_dot_5_1" />
+</LinearLayout>
+</android.support.v4.widget.SwipeRefreshLayout>
 </LinearLayout>

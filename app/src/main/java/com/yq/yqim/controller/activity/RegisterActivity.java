@@ -1,7 +1,9 @@
 package com.yq.yqim.controller.activity;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
 import android.util.Log;
@@ -36,6 +38,7 @@ public class RegisterActivity extends AppCompatActivity {
 private Button register;
 private EditText username;
 private  EditText password;
+public static String uu;
     String ip= IPtools.getIp();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -65,7 +68,7 @@ register.setOnClickListener(new View.OnClickListener() {
     private void Register() {
         final String userName = username.getText().toString();
         final String userPwd = password.getText().toString();
-
+uu=userName;
         if (TextUtils.isEmpty(userName) || TextUtils.isEmpty(userPwd)) {
             Toast.makeText(RegisterActivity.this, "不能为空", Toast.LENGTH_SHORT).show();
         } else {
@@ -109,11 +112,8 @@ register.setOnClickListener(new View.OnClickListener() {
                                 public void run() {
                                     //返回信息不为空，则表示登录验证成功
                                     if (res != null) {
-                                        Toast.makeText(RegisterActivity.this, "注册成功", Toast.LENGTH_SHORT).show();
-                                        //跳转主界面
-//                                        Intent intent = new Intent(RegisterActivity.this, LoginActivity.class);
-//                                        startActivity(intent);
-                                        finish();
+
+dialog();
                                     } else {
                                         Toast.makeText(RegisterActivity.this, "注册失败", Toast.LENGTH_SHORT).show();
 
@@ -130,123 +130,32 @@ register.setOnClickListener(new View.OnClickListener() {
         }
     }
 
-//    //准备数据，把数据添加到List中
-//    private void initUser() {
-//        new Thread(new Runnable() {
-//            @Override
-//            public void run() {
-//                try {
-//                    OkHttpClient client = new OkHttpClient();
-//                    final String us = "yanqi";
-//
-//
-//                    RequestBody requestBody = FormBody.create(MediaType.parse("application/json; charset=utf-8"), us);
-//                    String Url = ip + "WebService/Invite";
-//                    Request request = new Request.Builder().url(Url)//请求的url
-//                            .post(requestBody).build();
-//
-//                    Call call = client.newCall(request);
-//                    call.enqueue(new Callback() {
-//                        @Override
-//                        public void onFailure(Call call, final IOException e) {
-//                            //进行更新UI操作
-////                            runOnUiThread(new Runnable() {
-////                                @Override
-////                                public void run() {
-////                                    Toast.makeText(LoginActivity.this, "登陆失败！", Toast.LENGTH_SHORT).show();
-////                                }
-////                            });
-//                            System.out.println("获取失败");
-//                        }
-//
-//                        @Override
-//                        public void onResponse(Call call, Response response) throws IOException {
-//
-//                            //接受服务端传回来的数据
-//                            String responseData = response.body().string();//将服务端传来的Json数据转化为String类型数据
-//                            showResponse(responseData);
-//
-//                        }
-//                    });
-//                }
-//
-//
-//                catch (Exception e) {
-//                    e.printStackTrace();
-//                }
-//            }
-//        }).start();
-//    }
-//
-//    private void showResponse(final String response) {
-//
-//        Gson gson = new Gson();
-//        final List<InvationInfo> List = gson.fromJson(response, new TypeToken<List<InvationInfo>>() {
-//        }.getType());
-//
-//        //切换到主线程
-//        runOnUiThread(new Runnable() {
-//            @Override
-//            public void run() {
-//
-//                for (InvationInfo invationInfo : List) {
-//
-//                    System.out.println(invationInfo.getFriend());
-//                    System.out.println(invationInfo.getReason());
-//                }
-//
-//            }
-//        });
-//
-//    }
-//
-//
-//
+    public  void  dialog(){
 
+        AlertDialog dialog=  new AlertDialog.Builder(this)
+                .setTitle("完善信息")
+                .setMessage("是否完善信息")
+                .setIcon(R.drawable.heada)
+                .setPositiveButton("确定", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        //跳转更多注册信息
+                        Intent intent = new Intent(RegisterActivity.this, MoreMegActivity.class);
+                        startActivity(intent);
+                        finish();
+                    }
+                })
+                .setNegativeButton("取消", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        Toast.makeText(RegisterActivity.this, "注册成功", Toast.LENGTH_SHORT).show();
 
+                    }
+                })
+                .create();
+        dialog.show();
 
-//    //准备数据，把数据添加到List中
-//    private void initUser() {
-//        new Thread(new Runnable() {
-//            @Override
-//            public void run() {
-//                try {
-//                    OkHttpClient client = new OkHttpClient();
-//                    String Url = ip+"WebService/Friend";
-//                    Request request = new Request.Builder()
-//                            .url(Url)//请求的url
-//                            .get()
-//                            .build();
-//                    Response response = client.newCall(request).execute();
-//
-//                    //接受服务端传回来的数据
-//                    String responseData = response.body().string();//将服务端传来的Json数据转化为String类型数据
-//                    showResponse(responseData);
-//                } catch (Exception e) {
-//                    e.printStackTrace();
-//                }
-//            }
-//        }).start();
-//    }
-//
-//    private void showResponse(final String response) {
-//
-//        Gson gson = new Gson();
-//        final List<testbean> userList = gson.fromJson(response, new TypeToken<List<testbean>>() {
-//        }.getType());
-//        //切换到主线程
-//        runOnUiThread(new Runnable() {
-//            @Override
-//            public void run() {
-//
-//                for (testbean u : userList) {
-//                    System.out.println(u.getPassword());
-//                }
-//
-//            }
-//        });
-//
-//  }
+    }
 
 
 }

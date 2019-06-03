@@ -1,0 +1,4 @@
+#Tue Jun 04 02:16:51 CST 2019
+base.0=/home/yq/Desktop/andr/yqIM/app/build/intermediates/transforms/dexMerger/debug/8
+renamed.0=classes.dex
+path.0=classes.dex

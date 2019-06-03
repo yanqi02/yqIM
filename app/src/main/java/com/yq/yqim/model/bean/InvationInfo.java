@@ -3,12 +3,12 @@ package com.yq.yqim.model.bean;
 public class InvationInfo {
     private String friend;
     private String reason;
-    private InvationStatus status;//邀请的状态
-private  String  user;
+    private int status;
+    private String user;
     public InvationInfo() {
     }
 
-    public InvationInfo(String friend, String reason, InvationStatus status, String user) {
+    public InvationInfo(String friend, String reason, int status, String user) {
         this.friend = friend;
         this.reason = reason;
         this.status = status;
@@ -59,11 +59,11 @@ private  String  user;
         this.reason = reason;
     }
 
-    public InvationStatus getStatus() {
+    public int getStatus() {
         return status;
     }
 
-    public void setStatus(InvationStatus status) {
+    public void setStatus(int status) {
         this.status = status;
     }
 }

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".controller.activity.MoreMegActivity">
+    <LinearLayout
+        android:id="@+id/lin"
+android:layout_margin="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <CheckBox
+            android:layout_margin="10dp"
+            android:id="@+id/game"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="游戏"
+            android:button="@color/blue"
+            android:textSize="30sp"
+            android:background="@drawable/main_bottom"
+            />
+
+        <CheckBox
+            android:id="@+id/ball"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="篮球"
+            android:button="@color/blue"
+            android:textSize="30sp"
+            android:background="@drawable/main_bottom"
+            />
+
+        <CheckBox
+            android:id="@+id/read"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="阅读"
+            android:layout_margin="10dp"
+            android:button="@color/blue"
+            android:textSize="30sp"
+            android:background="@drawable/main_bottom"
+            />
+        <CheckBox
+            android:id="@+id/dom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="动漫"
+            android:layout_margin="10dp"
+            android:button="@color/blue"
+            android:textSize="30sp"
+            android:background="@drawable/main_bottom"
+            />
+
+    </LinearLayout>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bt"
+        android:id="@+id/introduce"/>
+
+    <Button
+        android:id="@+id/sure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="确定"
+        />
+
+</LinearLayout>

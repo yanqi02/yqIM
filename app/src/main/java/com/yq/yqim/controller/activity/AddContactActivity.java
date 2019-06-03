@@ -12,8 +12,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.gson.Gson;
-import com.hyphenate.chat.EMClient;
-import com.hyphenate.exceptions.HyphenateException;
+
 import com.yq.yqim.R;
 import com.yq.yqim.model.Model;
 import com.yq.yqim.model.bean.InvationInfo;
@@ -169,7 +168,7 @@ String ip= IPtools.getIp();
                     //使用Gson将对象转换为json字符串
                     String json = gson.toJson(invationInfo);
                     RequestBody requestBody = FormBody.create(MediaType.parse("application/json; charset=utf-8"), json);
-                    String Url = ip+"WebService/addFriend";
+                    String Url = ip+"addFriend";
                     Request request = new Request.Builder().url(Url)//请求的url
                             .post(requestBody).build();
 
@@ -196,9 +195,9 @@ String ip= IPtools.getIp();
                                     //返回信息不为空，则表示登录验证成功
                                     if (res != null) {
 
-                                        Toast.makeText(AddContactActivity.this, "登录成功", Toast.LENGTH_SHORT).show();
+                                        Toast.makeText(AddContactActivity.this, "发送成功", Toast.LENGTH_SHORT).show();
                                     } else {
-                                        Toast.makeText(AddContactActivity.this, "用户名或密码错误！", Toast.LENGTH_SHORT).show();
+                                        Toast.makeText(AddContactActivity.this, "清检查网络连接！", Toast.LENGTH_SHORT).show();
 
                                     }
                                 }

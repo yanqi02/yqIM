@@ -3,7 +3,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
-
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/add_friend"
+        android:src="@drawable/bt"/>
     <LinearLayout
         android:id="@+id/new_friend"
         android:layout_width="match_parent"
@@ -50,4 +54,10 @@
             android:text="聊天室"
             android:textSize="30sp" />
     </LinearLayout>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/contact_list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </android.support.v7.widget.RecyclerView>
 </LinearLayout>

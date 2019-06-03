@@ -3,6 +3,7 @@ package com.yq.yqim.controller.fragment;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -16,11 +17,13 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.Toast;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.yq.yqim.R;
 import com.yq.yqim.controller.activity.AddContactActivity;
+import com.yq.yqim.controller.activity.ChatingActivity;
 import com.yq.yqim.controller.activity.InviteActivity;
 import com.yq.yqim.controller.activity.LoginActivity;
 import com.yq.yqim.controller.adapter.FriendAdapter;
@@ -46,7 +49,7 @@ import okhttp3.Response;
 
 
 public class ContactFragment extends Fragment {
-    private ArrayList<testbean> BList = new ArrayList();
+
     private ImageView add;
     private ArrayList<testbean> friendList = new ArrayList();
     String ip = IPtools.getIp();
@@ -56,19 +59,21 @@ public class ContactFragment extends Fragment {
     private LocalBroadcastManager mLBM;
     private List<testbean> mfriend = new ArrayList();
     private Button newFriend;
+    private  FriendAdapter friendAdapter;
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = View.inflate(getActivity(), R.layout.header_fragment_contact, null);
         initView(view);
+
         return view;
 
     }
 
     private void initView(View view) {
-
-        listView = ((RecyclerView) view.findViewById(R.id.contact_list));
+        getContactFromserver(view);
+        add = (ImageView)view.findViewById(R.id.add_friend) ;
         iv_contact_red = ((ImageView) view.findViewById(R.id.iv_contact_red));
         iv_contact_red.setVisibility(View.GONE);
         ll_contact_invite = ((LinearLayout) view.findViewById(R.id.new_friend));
@@ -76,13 +81,13 @@ public class ContactFragment extends Fragment {
             public void onClick(View view) {
                 iv_contact_red.setVisibility(View.GONE);
                 Intent intent = new Intent(getActivity(), InviteActivity.class);
-             startActivity(intent);
-////                try {
-////                    paramAnonymousView = new ContactFragment.LocalReceiver(ContactFragment.this);
-////                    InviteActivity.localBroadcastManager.registerReceiver(paramAnonymousView, new IntentFilter("newinvite"));
-////                    return;
-////                } catch (Exception paramAnonymousView) {
-////                }
+                startActivity(intent);
+//                try {
+//                    view= new ContactFragment.LocalReceiver(ContactFragment.this);
+//                    InviteActivity.localBroadcastManager.registerReceiver(view, new IntentFilter("newinvite"));
+//                    return;
+//                } catch (Exception paramAnonymousView) {
+//                }
             }
         });
 
@@ -92,7 +97,7 @@ public class ContactFragment extends Fragment {
                 ContactFragment.this.startActivity(intent);
             }
         });
-       ll_contact_invite.setOnClickListener(new View.OnClickListener() {
+        ll_contact_invite.setOnClickListener(new View.OnClickListener() {
             public void onClick(View paramAnonymousView) {
                 Intent intent = new Intent(getActivity(), InviteActivity.class);
                 startActivity(intent);
@@ -119,7 +124,7 @@ public class ContactFragment extends Fragment {
                     Call call = localOkHttpClient.newCall(request);
                     call.enqueue(new Callback() {
                         public void onFailure(Call paramAnonymous2Call, IOException paramAnonymous2IOException) {
-                            System.out.println("»ñÈ¡Ê§°Ü");
+                            System.out.println("请检查网络连接");
                         }
 
                         public void onResponse(final Call paramAnonymous2Call, Response response)
@@ -140,9 +145,9 @@ public class ContactFragment extends Fragment {
                                     for (testbean testbean : mIn) {
 
                                         System.out.println(testbean.getUsername());
-                                        ContactFragment.this.friendList.add(testbean);
+                                        friendList.add(testbean);
                                     }
-                                    ContactFragment.this.initRecyclerView(paramView);
+                                    initRecyclerView(paramView);
                                 }
                             });
                         }
@@ -156,16 +161,18 @@ public class ContactFragment extends Fragment {
     }
 
     private void initRecyclerView(View paramView) {
-        paramView = (RecyclerView) paramView.findViewById(R.id.contact_list);
-        FriendAdapter localFriendAdapter = new FriendAdapter(getActivity(), this.friendList);
-        ((RecyclerView) paramView).setLayoutManager(new LinearLayoutManager(getActivity(), 1, true));
+        listView = (RecyclerView) paramView.findViewById(R.id.contact_list);
+        FriendAdapter localFriendAdapter = new FriendAdapter(getActivity(), friendList);
+        listView.setAdapter(localFriendAdapter);
+        listView.setLayoutManager(new LinearLayoutManager(getActivity(), 1, true));
         localFriendAdapter.setOnItemClickListener(new FriendAdapter.OnItemClickListener() {
-            public void OnItemClick(View paramAnonymousView, testbean paramAnonymoustestbean) {
-////                paramAnonymousView = new Intent(ContactFragment.this.getActivity(), ChatingActivity.class);
-////                ContactFragment.this.startActivity(paramAnonymousView);
+            public void OnItemClick(View view, testbean friend) {
+                Toast.makeText(getActivity(),friend.getUsername(),Toast.LENGTH_SHORT).show();
+                Intent intent= new Intent(ContactFragment.this.getActivity(), ChatingActivity.class);
+              ContactFragment.this.startActivity(intent);
             }
         });
-        ((RecyclerView) paramView).setAdapter(localFriendAdapter);
+
     }
 
 

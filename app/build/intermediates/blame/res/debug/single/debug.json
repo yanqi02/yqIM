@@ -1,0 +1,1938 @@
+[
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_abg1.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/abg1.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_welcom.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/welcom.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_welc.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/welc.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_fragment_setting.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_search_url_text.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout-v17_bmb.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/4b0d19d20ead46ec88f033793e778cf0/res/layout-v17/bmb.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_welc.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/welc.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abg1.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/abg1.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_bmb_simple_circle_button.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/4b0d19d20ead46ec88f033793e778cf0/res/layout/bmb_simple_circle_button.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_background.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_aa.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/aa.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_item_book.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/item_book.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_user.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/user.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_header_fragment_contact.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/header_fragment_contact.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_welcome.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/welcome.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_wel.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/wel.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_main_text.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/main_text.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_chating.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_chating.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_them.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/them.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_wel.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/wel.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_ch.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/ch.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_newfriend.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/newfriend.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v21_abc_list_divider_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_welcome.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/welcome.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/anim_abc_tooltip_exit.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_main_bottom.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/main_bottom.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-watch-v20_abc_dialog_material_background.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-watch-v20/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_yuanjiao_w.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/yuanjiao_w.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_welcom.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/welcom.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_yuanjiao_red.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/yuanjiao_red.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_wel1.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/wel1.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_wel1.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/wel1.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_icno.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/icno.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_light.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_bg1.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/bg1.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_shape_oval_normal.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/4b0d19d20ead46ec88f033793e778cf0/res/drawable/shape_oval_normal.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_item_chat.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/item_chat.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_main_bottom.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/main_bottom.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_welco.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/welco.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_bg.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/bg.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_heada.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/heada.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_mbook.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_mbook.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_head1.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/head1.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_bt.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/bt.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_missday.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/missday.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_tint_spinner.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_tint_seek_thumb.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_user.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/user.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_them.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/them.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_chenge_pwd.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_chenge_pwd.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_piece.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/4b0d19d20ead46ec88f033793e778cf0/res/drawable/piece.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_contact.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_contact.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_group.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/group.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_yuanjiao.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/yuanjiao.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_bt.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/bt.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_main1.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/main1.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color-v23_abc_tint_spinner.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_missday.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/missday.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_newfriend.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_newfriend.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_first.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/first.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_find_friend.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_find_friend.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_shape_rectangle_normal.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/4b0d19d20ead46ec88f033793e778cf0/res/drawable/shape_rectangle_normal.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_search.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/search.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_bg1.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/bg1.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_piece_dot.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/4b0d19d20ead46ec88f033793e778cf0/res/drawable/piece_dot.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_newfriend.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/newfriend.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_chat.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_yuanjiao.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/yuanjiao.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_tint_switch_track.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_yuanjiao_w.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/yuanjiao_w.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_main.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/main.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_main.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/main.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_tooltip.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_ch.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/ch.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_bmb_ham_button.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/4b0d19d20ead46ec88f033793e778cf0/res/layout/bmb_ham_button.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_ic_clear_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abg2.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/abg2.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_head1.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/head1.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_yuanjiao_red.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/yuanjiao_red.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color-v21_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color-v21/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_track_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_main_text.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/main_text.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_track.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_item_friend.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/item_friend.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_item_invite.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/item_invite.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_etalk.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_etalk.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_add1.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/add1.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_bg.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/bg.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v21_abc_dialog_material_background.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_main1.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/main1.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_head.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/head.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_add1.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/add1.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_light.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_tint_edittext.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_icno.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/icno.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/anim_abc_tooltip_enter.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_head.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/head.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_more_msg.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_more_msg.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_item_etalk.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/item_etalk.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color-v23_abc_tint_default.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_bmb_text_outside_circle_button.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/4b0d19d20ead46ec88f033793e778cf0/res/layout/bmb_text_outside_circle_button.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_welco.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/welco.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_survey.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_survey.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_heada.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/heada.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_add_contact.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_add_contact.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_btn_colored_text_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_tint_default.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_first.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/first.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_group.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/group.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_invite.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_invite.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_bmb_text_inside_circle_button.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/4b0d19d20ead46ec88f033793e778cf0/res/layout/bmb_text_inside_circle_button.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_webview.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_webview.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v24_abg2.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable-v24/abg2.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_aa.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/aa.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_welcome.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable_search.png.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/drawable/search.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/layout_activity_main2.xml.flat",
+        "source": "/home/yq/Desktop/andr/yqIM/app/src/main/res/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/038fcb74d8b5f65ce43b9e0747cbb0ff/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/yq/Desktop/andr/yqIM/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/home/yq/.gradle/caches/transforms-2/files-2.1/8ef10a0d46683da3788aec3f5437d6df/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
+    }
+]

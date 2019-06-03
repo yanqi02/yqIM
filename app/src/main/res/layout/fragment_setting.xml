@@ -5,14 +5,14 @@
     xmlns:hyphenate="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
-   >
+    >
 
-xxx    <TextView
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="设置"
         android:gravity="center"
-      
+
         android:textSize="40sp"
         android:textColor="@color/grey"
         android:layout_centerInParent="true"
@@ -24,15 +24,15 @@ xxx    <TextView
         android:layout_height="50dp"
         android:textSize="30sp"
         android:text="修改密码"
-        android:background="@drawable/yuanjiao_w"
+        android:background="@drawable/yuanjiao"
         />
-<Button
-    android:id="@+id/bt_setting_logout"
-    android:layout_width="match_parent"
-    android:layout_height="50dp"
-    android:textSize="30sp"
-    android:text="退出"
-    android:background="@drawable/yuanjiao_w"
-    />
+    <Button
+        android:id="@+id/bt_setting_logout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="30sp"
+        android:text="退出"
+        android:background="@drawable/yuanjiao"
+        />
 
 </LinearLayout>

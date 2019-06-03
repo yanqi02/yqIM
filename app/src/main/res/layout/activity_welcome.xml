@@ -8,18 +8,18 @@
     android:background="@drawable/wel">
 
     <ImageView
-     android:id="@+id/wlog"
+        android:id="@+id/wlog"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
 
-       />
-<TextView
-    android:layout_below="@+id/wlog"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:text=""
-    android:textSize="50sp"
-    android:gravity="center"
-    />
+        />
+    <TextView
+        android:layout_below="@+id/wlog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="50sp"
+        android:gravity="center"
+        />
 </RelativeLayout>

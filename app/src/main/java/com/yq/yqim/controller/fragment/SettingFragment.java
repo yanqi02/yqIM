@@ -11,8 +11,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.hyphenate.EMCallBack;
-import com.hyphenate.chat.EMClient;
+
 import com.yq.yqim.R;
 import com.yq.yqim.controller.activity.ChengePwdActivity;
 import com.yq.yqim.controller.activity.LoginActivity;
@@ -34,13 +33,13 @@ public class SettingFragment  extends Fragment {
     }
     private  void initView(View view){
         bt_setting_out=(Button)view.findViewById(R.id.bt_setting_logout);
-bt_setting_changepwd=(Button)view.findViewById(R.id.bt_setting_chengepwd);
+        bt_setting_changepwd=(Button)view.findViewById(R.id.bt_setting_chengepwd);
     }
 
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-    initData();
+        initData();
 
 
         bt_setting_changepwd.setOnClickListener(new View.OnClickListener() {
@@ -62,47 +61,28 @@ bt_setting_changepwd=(Button)view.findViewById(R.id.bt_setting_chengepwd);
                 Model.getInstance().getGlobalThreadPool().execute(new Runnable() {
                     @Override
                     public void run() {
-                        //退出服务器登陆
-                        EMClient.getInstance().logout(false, new EMCallBack() {
+                        //关闭DBHelper
+                        Model.getInstance().getDbManager().close();
+                        //回到登录页面
+                        getActivity().runOnUiThread(new Runnable() {
                             @Override
-                            public void onSuccess() {
-                                //关闭DBHelper
-                                Model.getInstance().getDbManager().close();
-                                //回到登录页面
-                                getActivity().runOnUiThread(new Runnable() {
-                                    @Override
-                                    public void run() {
-                                        Toast.makeText(getActivity(),"退出成功",Toast.LENGTH_SHORT).show();
-                                        Intent intent =new Intent(getActivity(), LoginActivity.class);
-                                        startActivity(intent);
-                                        getActivity().finish();
-                                    }
-                                });
-                            }
-
-                            @Override
-                            public void onError(int i, final String s) {
-                                getActivity().runOnUiThread(new Runnable() {
-                                    @Override
-                                    public void run() {
-                                        Toast.makeText(getActivity(),"退出失败"+s,Toast.LENGTH_SHORT).show();
-
-                                    }
-                                });
-
-                            }
-
-                            @Override
-                            public void onProgress(int i, String s) {
-
+                            public void run() {
+                                Toast.makeText(getActivity(),"退出成功",Toast.LENGTH_SHORT).show();
+                                Intent intent =new Intent(getActivity(), LoginActivity.class);
+                                startActivity(intent);
+                                getActivity().finish();
                             }
                         });
                     }
+
+
+
+
                 });
             }
         });
 
-   }
+    }
 
 
 }

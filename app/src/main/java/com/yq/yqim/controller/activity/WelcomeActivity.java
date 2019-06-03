@@ -6,7 +6,7 @@ import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.hyphenate.chat.EMClient;
+
 import com.yq.yqim.R;
 import com.yq.yqim.model.Model;
 import com.yq.yqim.model.bean.UserInfo;
